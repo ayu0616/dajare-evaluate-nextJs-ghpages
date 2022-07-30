@@ -2,7 +2,7 @@
     "theme_color": "#6eff70",
     "background_color": "#3fc341",
     "display": "standalone",
-    "scope": "/",
+    "scope": "/dajare-evaluate-nextJs-ghpages/",
     "start_url": "/dajare-evaluate-nextJs-ghpages/",
     "name": "dajare-evaluate",
     "short_name": "dajare-evaluate",
